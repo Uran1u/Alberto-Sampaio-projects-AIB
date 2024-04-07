@@ -14,8 +14,8 @@ SYNOPSIS
 
 DESCRIPTION
 ===========
-
-**MenuDataBase** is used to manage the database of car production. 
+**MenuDataBase 1ªperiodo** is a calculator simple as that. 
+**MenuDataBase 2ªperiodo** is a database of car production. 
 It allows inserting data of articles, listing article data, inserting produced quantities, listing produced quantities in the week, listing produced quantity on a specific day, 
 presenting the maximum quantity produced in the week, searching for produced quantity, changing produced quantity, and clearing weekly production data.
 
